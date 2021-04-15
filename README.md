@@ -6,7 +6,7 @@ These projects are made for the freeCodeCamp Responsive Web Design Certification
 
 <ul>
   <li>Tribute Page: <a href="https://codepen.io/tristinlongstreath/full/ZELpxZo" target="_self">Page</a> | <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page" target="_self">Requirements</a></li>
-  <li>Survey Form: <a href="" target="_self">Page</a> | <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form" target="_self">Requirements</a></li>
+  <li>Survey Form: <a href="https://codepen.io/tristinlongstreath/full/jOyzodJ" target="_self">Page</a> | <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form" target="_self">Requirements</a></li>
   <li>Product Landing Page: <a href="" target="_self">Page</a> | <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page" target="_self">Requirements</a></li>
   <li>Technical Documentation Page: <a href="" target="_self">Page</a> | <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page" target="_self">Requirements</a></li>
   <li>Personal Portfolio: <a href="" target="_self">Page</a> | <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage" target="_self">Requirements</a></li>
